@@ -1,0 +1,8 @@
+opencv-python==4.6.0.66
+paddleocr==2.7.0.2
+paddlepaddle==2.5.1
+PyYAML==6.0.1
+torch==2.0.1
+torchvision==0.15.2
+vietocr==0.3.11
+Pillow==9.5.0
