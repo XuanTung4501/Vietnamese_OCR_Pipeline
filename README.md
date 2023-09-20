@@ -2,7 +2,7 @@
 
 ## Scene Text Detection
 ```bash
-PaddleOCR DBnet
+PaddleOCR DBNet
 ```
 ## Text Recognition
 ```bash
