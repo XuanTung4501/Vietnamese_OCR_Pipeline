@@ -5,7 +5,7 @@
     git clone https://github.com/XuanTung4501/Vietnamese_OCR_Pipeline
     cd Vietnamese_OCR_Pipeline
     
-    # install dependencies
+    #install dependencies
     pip install -r requirements.txt
 ```
 
