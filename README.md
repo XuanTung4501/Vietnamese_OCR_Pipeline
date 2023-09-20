@@ -1,5 +1,13 @@
 # Vietnamese_Document_Scanner
 
+## Scene Text Detection
+```bash
+PaddleOCR DBnet
+```
+## Text Recognition
+```bash
+vietocr attentionOCR
+```
 ## Install
 ```bash
     git clone https://github.com/XuanTung4501/Vietnamese_OCR_Pipeline
